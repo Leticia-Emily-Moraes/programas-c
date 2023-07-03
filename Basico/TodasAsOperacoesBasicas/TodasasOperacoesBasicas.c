@@ -7,10 +7,10 @@ int main()
 	setlocale(LC_ALL, "Portuguese_Brazil");
 	int n1,n2,soma,sub,mult,div;
 	
-	printf("Insira um número: ");
+	printf("Insira um numero: ");
 	scanf ("%d", &n1);
 	
-	printf("Insira outro número: ");
+	printf("Insira outro numero: ");
 	scanf("%d" , &n2);
 	
 	soma=n1+n2;
@@ -19,9 +19,9 @@ int main()
 	div=n1/n2;
 	
 	printf("Soma: %d \n", soma);
-	printf("Subtração: %d \n", sub);
-	printf("Multiplicação: %d \n", mult);
-	printf("Divisão: %d \n", div);
+	printf("Subtracao: %d \n", sub);
+	printf("Multiplicacao: %d \n", mult);
+	printf("Divisao: %d \n", div);
 	
     system("pause");	
 }

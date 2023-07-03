@@ -19,7 +19,7 @@ int main()
 	
 	mediaFinal=(n1+n2+n3)/3;
 	
-	printf("Média final: %1.f \n", mediaFinal);
+	printf("Media final: %1.f \n", mediaFinal);
 	
 	system("pause");
 }
