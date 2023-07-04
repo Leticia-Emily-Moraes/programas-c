@@ -1,17 +1,17 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include <locale>
+#include <locale.h>
 
 int main() 
 {
 	setlocale(LC_ALL, "Portuguese_Brazil");
 	
 	const int num=20;
-	int lnum[num],cont,resto;
+	int lnum[20],cont,resto;
 	
 	for(cont=0;cont<num;cont++)
 	{
-		printf("adicione um número: ");
+		printf("adicione um nï¿½mero: ");
 		scanf("%d", &lnum[cont]);
 	}
 	

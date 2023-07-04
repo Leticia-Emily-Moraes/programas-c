@@ -33,7 +33,6 @@ int main()
 		}	
 	}
 	system("cls");
-	printf("A quantidade de consoantes é de %d\n", somaconsoante);
+	printf("A quantidade de consoantes ï¿½ de %d\n", somaconsoante);
 	system("pause");
 }
-

@@ -5,10 +5,10 @@
 int main() {
 	setlocale(LC_ALL, "Portuguese_Brazil");
 	const int num=10, numi=0;
-	int inteiro[num],cont,conti;
+	int inteiro[10],cont,conti;
 	for(cont=0;cont<=num;cont++)
 	{
-		printf("(%d)adicione um número: ",cont);
+		printf("(%d)adicione um nï¿½mero: ",cont);
 		scanf("%d", &inteiro[cont]);
 	}
 	system("cls");
