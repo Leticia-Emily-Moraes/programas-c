@@ -28,7 +28,7 @@ int main()
 			break;
 		}
 		default: 
-		printf("Media invalida!!!");
+		printf("Media invalida!!! \n");
 		
 	}	
 	system("pause");
