@@ -11,7 +11,7 @@ int main()
 	int curso, adm=800, ads=1300, enfer=850, dire=900, desc=0,desconto, precofinal, porcentagemfinal, precofinal5dia, porcentagem5dia;
 	char beneficios,repetir;
 	
-	printf("Ola, somos a faculdade ACME estamos aqui para fazer seu cadastro para nossa faculdade \3\3\3\n");
+	printf("Olá, somos a faculdade ACME estamos aqui para fazer seu cadastro para nossa faculdade \3\3\3\n");
 	printf("Para comecarmos insira seu nome completo:\n");
 	gets (nome);
 	system ("cls");
