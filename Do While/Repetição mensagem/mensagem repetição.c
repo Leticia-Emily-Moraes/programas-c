@@ -9,7 +9,7 @@ int main()
 	do
 	{
 	printf("Estava com saudade de TPA \3\3\3\3 \n");
-	printf("Você quer ver a mensagem novamente?");
+	printf("Vocï¿½ quer ver a mensagem novamente?");
 	scanf(" %c", &resposta);
 	
 	}
