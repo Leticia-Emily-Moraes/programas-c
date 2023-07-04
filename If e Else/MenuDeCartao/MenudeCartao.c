@@ -11,7 +11,7 @@ int main()
 	printf("Valor Produto:");
 	scanf("%f",&preco);
 	
-	printf("Opção de pagamento:\n A- a vista 10%% de desconto\n B- a vista cartao 15%% de desconto\n C- Duas vezes sem juros\n D- 3 vezes juros de 10%%\n");
+	printf("Opï¿½ï¿½o de pagamento:\n A- a vista 10%% de desconto\n B- a vista cartao 15%% de desconto\n C- Duas vezes sem juros\n D- 3 vezes juros de 10%%\n");
 	scanf(" %c",&op);
 	
 	if(op=='A')
@@ -23,7 +23,7 @@ int main()
 	else if (op=='B')
 	{
 		valor=preco-(preco*15/100);
-		printf("Valor a pagar a vista com cartão com 15%% de desconto: R$ %.2f\n", valor);
+		printf("Valor a pagar a vista com cartï¿½o com 15%% de desconto: R$ %.2f\n", valor);
 		
 	}
 	else if (op=='C')
@@ -39,7 +39,7 @@ int main()
 		
 	}else
 	{
-		printf("Opção invalida!!!!\n");
+		printf("Opï¿½ï¿½o invalida!!!!\n");
 	}
 	
 		
