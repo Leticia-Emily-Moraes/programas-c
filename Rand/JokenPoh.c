@@ -11,8 +11,6 @@ int main(){
 	
 	int x,n,c;
 	
-	
-	
 	do
 	{
 		printf("Vamos jogar Pedra, Papel e Tesoura?\nEscolha:\n1-Pedra\n2-Papel\n3-Tesoura\n0-Sair\n");

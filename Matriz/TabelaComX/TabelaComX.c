@@ -32,7 +32,7 @@ int main()
 	{
 		for(Coluna=0;Coluna<5;Coluna++)
 		{
-			printf("% c",letra [Linha][Coluna]);
+			printf("%c",letra [Linha][Coluna]);
 		}
 		printf("\n");
 	}
