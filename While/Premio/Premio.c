@@ -1,7 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-
 int main (){
 	int premio=13,n;
 	
@@ -16,5 +15,3 @@ do	{
 	}while(n != premio);
 system("pause");
 }
-
-
